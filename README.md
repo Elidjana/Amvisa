@@ -13,16 +13,13 @@ and manage food orders with delivery support. It’s designed to bridge the gap 
 
 🛠️ TECH STACK
 
-Frontend  React   
-
-Backend	  Java & Spring Boot  
-
-Database  MySQL  
-
-Hosting   AWS  
+🌟 Frontend  React   
+🌟 Backend	  Java & Spring Boot  
+🌟 Database  MySQL  
+🌟 Hosting   AWS  
 
 
-DESIGN
+🌟 DESIGN
 
 <img width="2897" height="1653" alt="Final Design-01" src="https://github.com/user-attachments/assets/7a1fc510-63ae-427a-9bab-f60ae0f37b5d" />
 
