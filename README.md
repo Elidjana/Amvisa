@@ -24,8 +24,8 @@ DESIGN
 
 DEPLOYMENT STEPS
 
-Create a remote Database in AWS.
-Get your remote DB urls & credentials and connect it to your project.
+Create a remote Database in AWS. //
+Get your remote DB urls & credentials and connect it to your project.//
 Create a server in aws (EC2)
 Deploy your code to the server and run it there.
 Link your frontend to your backend running on aws ec2
