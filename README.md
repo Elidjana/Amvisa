@@ -1,4 +1,4 @@
-Amvisa — Homemakers Food Delivery & Recipe Sharing Platform
+Amvisa - Homemakers Food Delivery & Recipe Sharing Platform
 
 Amvisa is a community-driven platform that empowers homemakers to connect with one another, share their favorite homemade recipes, 
 and manage food orders with delivery support. It’s designed to bridge the gap between talented home cooks and food lovers who want fresh, homemade meals delivered to their doorstep.
@@ -13,10 +13,14 @@ and manage food orders with delivery support. It’s designed to bridge the gap 
 
 🛠️ TECH STACK
 
-Frontend  React 
-Backend	  Java & Spring Boot
-Database  MySQL
-Hosting   AWS
+Frontend  React   
+
+Backend	  Java & Spring Boot  
+
+Database  MySQL  
+
+Hosting   AWS  
+
 
 DESIGN
 
